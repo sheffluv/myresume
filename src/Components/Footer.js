@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Sh Con</li>
+              <li>&copy; Copyright 2020<a title="Sh Con" href="https://myresume-sh.herokuapp.com/">SH Con</a></li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 

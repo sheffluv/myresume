@@ -3,9 +3,9 @@
     "name":"Lawal Sheriff",
     "occupation":"Front end Web developer",
     "image":"profilepic.jpg",
-    "bio":"Check my social link for more details.",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by SH Concept, where I still work today. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist..",
     "contactmessage":"Have any comment, contact US.",
-    "email": "sheffluv4real@gmail.com",
+    "email": "<a href="mailto:sheffluv4real@gmail.com">sheffluv4real@gmail.com</a>",
     "phone": "+234-703-1189-022",
     "address":{
       "street":"Sango Road",
@@ -14,8 +14,8 @@
       "country":"Nigeria",
       "zip": "240213"
     },
-    "website": "http://#",
-    "resumedownload":"http://#",
+    "website": "https://myresume-sh.herokuapp.com/",
+    "resumedownload":"https://myresume-sh.herokuapp.com/",
     "social":[
       {
         "name":"facebook",
@@ -83,15 +83,15 @@
     "skills":[
       {
         "name":"Git",
-        "level":"70%"
+        "level":"85%"
       },
       {
         "name":"PowerPoint",
-        "level":"55%"
+        "level":"70%"
       },
       {
         "name":"ReactJs",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"CSS",
@@ -99,11 +99,11 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"Javascript",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"Database",
@@ -111,7 +111,7 @@
       },
       {
         "name":"nodejs",
-        "level":"70%"
+        "level":"80%"
       }
     ]
   },
@@ -125,9 +125,9 @@
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
+        "category":"My resume Website",
         "image":"resume-website.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://myresume-sh.herokuapp.com"
       }
     ]
   },
