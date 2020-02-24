@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Lawal Sheriff",
+    "occupation":"Front end Web developer",
+    "image":"profilepic.jpg",
+    "bio":"Check my social link for more details.",
+    "contactmessage":"Have any comment, contact US.",
+    "email": "sheffluv4real@gmail.com",
+    "phone": "+234-703-1189-022",
+    "address":{
+      "street":"Sango Road",
+      "city":"Ilorin",
+      "state":"Kwara",
+      "country":"Nigeria",
+      "zip": "240213"
+    },
+    "website": "http://#",
+    "resumedownload":"http://#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/sheffluv",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/sheffluv",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/sheffluv",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sheriff-lawal-b22722103",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/sheffluv_",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/sheffluv",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University",
+        "degree":"B.sc Computer Science",
+        "graduated":"September 2018"
+      },
+      {
+        "school":"FLMC",
+        "degree":"Senior School Certificate",
+        "graduated":"July 2012"
+      }
+    ],
+    "work":[
+      {
+        "company":"OTEO Designs",
+        "title":"Student ",
+        "years":"March 2017 - Present"
+      },
+      {
+        "company":"Mael Cool Studio",
+        "title":"PowerPoint Designer",
+        "years":"March 2019 - Present"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"PowerPoint",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"50%"
+      },
+      {
+        "name":"Database",
+        "level":"80%"
+      },
+      {
+        "name":"nodejs",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Face recognition",
+        "category":"Detect face in picture",
+        "image":"smartbrain-app.png",
+        "url":"https://smart-brain-sh.herokuapp.com"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.png",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      
+      {
+        "text":"That Lawal Sheriff must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Opadiran Abdulafeez"
+      }
+    ]
+  }
+}
